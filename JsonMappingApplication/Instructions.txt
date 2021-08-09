@@ -1,0 +1,20 @@
+﻿Items are separated by Tabs
+Be careful \n from excel aren't disappearing for some reason.
+The final element does have a comma so be careful of that
+Also, this doesn't give the entire template, so you need to put this generated chuck into the elements array.
+
+{
+    "ProductMappingNum": 101,
+    "Sections": [
+        {
+            "SectionName": "marketplace",
+            "SectionDisplayName": "Marketplace",
+            "SectionFlag": 1,
+            "Elements": [
+                //Generated stuff goes in here.
+                //You still need to fill out some of the fields in the generated.
+                //For example, the "isArray" field needs to be filled out.
+            ]
+        }
+    ]
+}

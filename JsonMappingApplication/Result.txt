@@ -1,0 +1,19 @@
+{
+"ElementName": "Hello|Blah|Testing",
+"ElementDispalyName": "Testing",
+"MappedStatus": 0,
+"Requirement": ,
+"HelpNum": ,
+"Mapper": {
+"MapperType": 1,
+"MapperLookup": 0,
+"AttributeMappers": []
+},
+"schemaGroup": "",
+"jsonPath": "",
+"IsArray": ,
+"IsClosedList": ,
+"ParentKey": "",
+"ConditionalMappers": []
+},
+
